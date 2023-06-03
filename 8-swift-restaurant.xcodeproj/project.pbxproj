@@ -19,6 +19,7 @@
 		6487A9742A2880ED00F8C296 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6487A9732A2880ED00F8C296 /* DataService.swift */; };
 		6487A9762A28816700F8C296 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6487A9752A28816700F8C296 /* AboutView.swift */; };
 		6487A9782A28817200F8C296 /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6487A9772A28817200F8C296 /* GalleryView.swift */; };
+		64A5C54D2A2B197900D78BF6 /* PhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64A5C54C2A2B197900D78BF6 /* PhotoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		6487A9732A2880ED00F8C296 /* DataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		6487A9752A28816700F8C296 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		6487A9772A28817200F8C296 /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
+		64A5C54C2A2B197900D78BF6 /* PhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				6487A9732A2880ED00F8C296 /* DataService.swift */,
 				6487A9752A28816700F8C296 /* AboutView.swift */,
 				6487A9772A28817200F8C296 /* GalleryView.swift */,
+				64A5C54C2A2B197900D78BF6 /* PhotoView.swift */,
 				6487A9512A2877E000F8C296 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -197,6 +200,7 @@
 				6487A9612A2877E000F8C296 /* MainView.swift in Sources */,
 				6487A9762A28816700F8C296 /* AboutView.swift in Sources */,
 				6487A9702A2880E100F8C296 /* MenuListRow.swift in Sources */,
+				64A5C54D2A2B197900D78BF6 /* PhotoView.swift in Sources */,
 				6487A96E2A2880CF00F8C296 /* MenuView.swift in Sources */,
 				6487A9742A2880ED00F8C296 /* DataService.swift in Sources */,
 				6487A95F2A2877E000F8C296 /* __swift_restaurantApp.swift in Sources */,
